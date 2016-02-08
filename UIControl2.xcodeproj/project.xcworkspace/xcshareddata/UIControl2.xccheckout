@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22E6F3C0-CC95-4486-AE84-C7102982471E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIControl2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>956A41F262147C3FE39C375D10DD0645FB7AF83B</key>
+		<string>https://github.com/ppam1524/UIControl2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIControl2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>956A41F262147C3FE39C375D10DD0645FB7AF83B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ppam1524/UIControl2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>956A41F262147C3FE39C375D10DD0645FB7AF83B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>956A41F262147C3FE39C375D10DD0645FB7AF83B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIControl2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
